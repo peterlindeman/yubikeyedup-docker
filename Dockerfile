@@ -1,5 +1,5 @@
 FROM phusion/baseimage:0.9.19
-MAINTAINER Slawomir Rozbicki <docker@rozbicki.eu>
+MAINTAINER Peter Lindeman <simsupport@marin.nl>
 
 RUN apt-get update && apt-get install -y git python python-crypto
 

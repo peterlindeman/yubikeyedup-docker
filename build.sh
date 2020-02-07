@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t srozb/yubikeyedup .
+docker build -t simsupport/yubikeyedup .
